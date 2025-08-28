@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://github.com/KoWalevDV/ISOD/blob/bb3c5f3cf5f362c0640832ac4fb21cb35051128f/Docx/LogoWhite.jpg" alt="ISOD Logo" width="150"/>
+  <img src="https://github.com/KoWalevDV/ISOD/blob/bb3c5f3cf5f362c0640832ac4fb21cb35051128f/Docx/LogoWhite.jpg" alt="ISOD Logo" width="350"/>
 </p>
 
-<h1 align="center">ISOD</h1>
 <h3 align="center">Интеллектуальная информационная система мониторинга безопасности периметра</h3>
 <h4 align="center">промышленных и критических объектов с использованием беспилотных летательных аппаратов (БПЛА)</h4>
 
