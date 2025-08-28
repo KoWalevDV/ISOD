@@ -8,8 +8,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Статус-Завершён-success?style=for-the-badge" alt="Статус: Завершён"/>
+  <img src="https://img.shields.io/badge/Qt-6.0+-green?style=for-the-badge&logo=qt" alt="Qt6"/>
+  <img src="https://img.shields.io/badge/C++-17/20-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c++" alt="C++"/>
+  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/PyTorch/TensorFlow-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch/TensorFlow"/>
   <img src="https://img.shields.io/badge/Дипломная_Работа-Бакалавриат-important?style=for-the-badge" alt="Дипломная работа"/>
 </p>
 
